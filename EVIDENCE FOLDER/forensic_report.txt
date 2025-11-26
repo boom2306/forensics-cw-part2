@@ -1,0 +1,52 @@
+
+DIGITAL FORENSIC ANALYSIS REPORT
+Generated: 2025-11-26 01:55:45
+==================================================
+
+SUMMARY:
+--------
+- Installed Applications: 11
+- User Accounts: 4
+- USB Artifacts: 7
+- Command History Items: 0
+- Browser Artifacts: 4
+
+DETAILED FINDINGS:
+------------------
+
+INSTALLED APPLICATIONS:
+  - Microsoft
+  - Google
+  - Chrome
+  - Adobe
+  - Office
+  - Word
+  - Excel
+  - PowerPoint
+  - Outlook
+  - Visual Studio
+  - Java
+
+USER ACCOUNTS:
+  - Administrator
+  - Guest
+  - User
+  - Admin
+
+USB HISTORY:
+  - USBSTOR
+  - Disk&Ven
+  - ClassGUID
+  - HardwareID
+  - VID_
+  - PID_
+  - SerialNumber
+
+COMMAND HISTORY:
+
+
+BROWSER ARTIFACTS:
+  - Internet Explorer
+  - History
+  - Cookies
+  - TypedURLs

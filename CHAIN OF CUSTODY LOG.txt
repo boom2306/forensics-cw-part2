@@ -1,0 +1,13 @@
+AUTOSPY CHAIN OF CUSTODY LOG
+
+=============================
+
+Case: Case 1
+Investigator: rawhy
+Date Started: 24/11/2025
+
+EVIDENCE: 20GB Disk Image - User PC
+
+Original Hashes:
+- MD5: A49D1254C873808C58E6F1BCD60B5BDE
+- SHA-1: AFE5C9AB487BD47A8A9856B1371C2384D44FD785
